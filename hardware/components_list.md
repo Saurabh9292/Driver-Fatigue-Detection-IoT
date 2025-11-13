@@ -2,5 +2,5 @@
 - 8MP Camera
 - 5V Active Buzzer
 - 1/2 Channel Relay Modules
-- 12V Water Pump + Solenoid Valve
+- 12V Water Pump 
 - LM2596 Step-Down Converter
