@@ -49,4 +49,4 @@ Included in `docs/` folder are the project *Published Paper* and *Final Report* 
 
 ## License & Author
 Author: **Saurabh Amrutkar** (project co-author in Final Report)
-Repository prepared by ChatGPT for repo creation and demo purposes.
+
