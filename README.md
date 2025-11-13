@@ -13,7 +13,6 @@ drowsiness and triggers alerts (buzzer, water sprinkler) via GPIO-controlled rel
 - `src/` - Python source code (detection and launcher)
 - `model/` - place your trained model or download link here
 - `hardware/` - wiring diagrams and components list
-- `web/` - simple monitoring UI (HTML/CSS)
 - `docs/` - project paper and final report (PDFs provided by the authors)
 - `requirements.txt` - Python dependencies
 
